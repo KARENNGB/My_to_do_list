@@ -10,3 +10,25 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+body{
+    margin-top: 100px;
+}
+
+ul{
+    padding: 0;
+    margin-bottom: 0;
+    text-decoration: black;
+}
+
+ul li{
+    border: 1px solid ;
+    list-style: none;
+    padding: 5px;
+    color: lightcoral;
+}
+
+h1 {text-align: center;
+color: lightcoral;
+text-decoration: underline;
+}
+input {border: none; width: 100% ;}
